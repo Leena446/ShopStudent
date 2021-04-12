@@ -1,0 +1,70 @@
+name: electro_mania_afnan
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  youtube_player_flutter: ^7.0.0+7
+  carousel_pro: ^1.0.0
+  animations: ^1.1.2
+  modal_progress_hud: ^0.1.3
+  passwordfield: ^0.0.82
+  sticky_headers: "^0.1.8"
+  carousel_slider: ^2.3.1
+  animated_text_kit: ^3.1.0
+  provider: ^4.3.3
+  intl: ^0.17.0
+  quick_feedback: ^0.1.1
+  firebase_core: ^1.0.1
+  cloud_firestore: ^1.0.1
+  firebase_auth: ^1.0.1
+  firebase_auth_web: ^1.0.1
+  firebase_analytics: ^7.1.1
+  image_picker: ^0.7.2+1
+  permission_handler: ^6.1.0
+  firebase_storage: ^8.0.0
+  fluttertoast: ^8.0.3
+  auto_size_text: ^2.1.0
+  flutter_cart: ^0.0.5+1
+  nice_button: ^0.1.7
+  geolocator: ^7.0.1
+  url_launcher: ^6.0.3
+  location: ^4.1.1
+  photo_view: ^0.11.1
+
+
+
+
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+
+  fonts:
+    - family: Yanone Kaffeesatz
+      fonts:
+        - asset: fonts/YanoneKaffeesatz-Bold.ttf

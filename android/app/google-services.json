@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878760827095",
+    "project_id": "electro-mania-afnan",
+    "storage_bucket": "electro-mania-afnan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878760827095:android:416f994ef32183fb3c3892",
+        "android_client_info": {
+          "package_name": "com.example.electro_mania_afnan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878760827095-ve2gl0mt4cfcs78rjtksti7tjanjd1ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFl_i2Hx_fgsQHWd41Vnu_Xzg3q7OPAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878760827095-ve2gl0mt4cfcs78rjtksti7tjanjd1ai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878760827095-56ln69u9vlbaji3ac2t2lehsnk4k9rjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afnan.electroManiaAfnan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
